@@ -6,5 +6,5 @@ A basic recipe website that consists of a main index page which will have links 
 
 ## Skills demonstrated
 
-1. HTML \
+1. HTML
 2. Git
