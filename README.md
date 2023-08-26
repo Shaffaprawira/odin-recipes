@@ -1,7 +1,10 @@
-Project description: \
+# Odin Recipes
 
-Skills demonstrated: \
+## Project description
 
-1. \
-2. \
-3. \
+A basic recipe website that consists of a main index page which will have links to a few recipes.
+
+## Skills demonstrated
+
+1. HTML \
+2. Git
