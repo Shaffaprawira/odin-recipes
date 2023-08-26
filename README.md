@@ -1,9 +1,7 @@
-Project description:\
+Project description: \
 
+Skills demonstrated: \
 
-Skills demonstrated:\
 1. \
 2. \
 3. \
-
-
